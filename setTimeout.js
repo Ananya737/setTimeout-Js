@@ -15,6 +15,7 @@ let show1=document.querySelector("#show1");
 
 
 //setInterval 
+
 let a= document.querySelector("#stopwatch").value
 let inter;
 let count=a;
